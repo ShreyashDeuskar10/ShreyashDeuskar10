@@ -99,8 +99,6 @@
   <img src="https://raw.githubusercontent.com/ShreyashDeuskar10/ShreyashDeuskar10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ℹ️ The snake animation needs a one-time GitHub Actions setup (see notes below) to generate that SVG for your account.
-
 ---
 
 ### 📫 Let's Connect
